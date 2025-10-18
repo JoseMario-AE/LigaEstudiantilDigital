@@ -12,47 +12,47 @@ El proyecto fue desarrollado aplicando la metodología ágil **Scrum**, prioriza
 
 | Rol | Nombre |
 |------|---------|
-| 🎯 **Product Owner** | Maite Alexa Méndez Rocha |
+| 🎯 **Propietario del producto** | Maite Alexa Méndez Rocha |
 | 👨‍💼 **Scrum Master** | Royxel Bury Rojas |
 | 💻 **Desarrolladores** | Bruno Dos Santos Vásquez |
 | 💻 **Desarrolladores** | Mario Quispe Herrera |
-| 💻 **Desarrolladores** | Brenda Ayhelen Barja Machon |
+| 💻 **Desarrolladores** | Brenda Ayhelen Barja Machón |
 
 ---
 
-## 🧩 Requerimientos Funcionales
+## 🧩Requerimientos Funcionales
 
 ### 1. Gestión de Equipos
-- RF1. Permitir el **registro de equipos** con nombre y color representativo.  
-- RF2. Validar que los nombres de equipos contengan solo **letras y espacios**.  
-- RF3. Mostrar una **lista de equipos registrados**, con opción de eliminar.  
-- RF4. Permitir **cargar equipos de ejemplo** automáticamente.
+-RF1. Permitir el **registro de equipos** con nombre y color representativo.  
+-RF2. Validar que los nombres de equipos contengan solo **letras y espacios**.  
+-RF3. Mostrar una **lista de equipos registrados**, con opción de eliminar.  
+-RF4. Permitir **cargar equipos de ejemplo** automáticamente.
 
 ### 2. Gestión de Partidos
-- RF5. Permitir **crear partidos** seleccionando equipo local, visitante y fecha/hora.  
-- RF6. Validar que un equipo **no pueda enfrentarse a sí mismo**.  
-- RF7. Mostrar una **lista de partidos programados**.  
-- RF8. Permitir **editar o eliminar** partidos existentes.
+-RF5. Permitir **crear partidos** seleccionando equipo local, visitante y fecha/hora.  
+-RF6. Validar que un equipo **no pueda enfrentarse a sí mismo**.  
+-RF7. Mostrar una **lista de partidos programados**.  
+-RF8. Permitir **editar o eliminar** partidos existentes.
 
 ### 3. Registro de Resultados
-- RF9. Habilitar un **modal interactivo** para registrar o editar resultados.  
-- RF10. Validar que los goles sean **números válidos y no negativos**.  
-- RF11. Guardar los resultados y marcar el partido como **jugado**.  
-- RF12. Mostrar una **lista actualizada de resultados** con fecha y marcador.
+-RF9. Habilitar un **modal interactivo** para registrar o editar resultados.  
+-RF10. Validar que los goles sean **números válidos y no negativos**.  
+-RF11. Guarda los resultados y marca el partido como **jugado**.  
+-RF12. Mostrar una **lista actualizada de resultados** con fecha y marcador.
 
 ### 4. Estadísticas y Tablas
-- RF13. Generar una **tabla de posiciones (Leaderboard)** con puntos, goles y partidos jugados.  
-- RF14. Calcular **victorias, empates, derrotas y porcentaje de efectividad** por equipo.  
-- RF15. Mostrar estadísticas generales (total de equipos, partidos, jugados y próximo partido).
+-RF13. Generar una **tabla de posiciones (Leaderboard)** con puntos, goles y partidos jugados.  
+-RF14. Calcula **victorias, empates, derrotas y porcentaje de efectividad** por equipo.  
+-RF15. Mostrar estadísticas generales (total de equipos, partidos, jugados y próximo partido).
 
 ### 5. Galería Multimedia
-- RF16. Permitir **subir imágenes** desde el dispositivo del usuario.  
-- RF17. Validar que los archivos sean **imágenes válidas**.  
-- RF18. Mostrar una **galería visual** con descripciones y fechas.  
-- RF19. Permitir **eliminar fotos** cargadas.
+-RF16. Permitir **subir imágenes** desde el dispositivo del usuario.  
+-RF17. Validar que los archivos sean **imágenes válidas**.  
+-RF18. Mostrar una **galería visual** con descripciones y fechas.  
+-RF19. Permitir **eliminar fotos** cargadas.
 
 ### 6. Persistencia y Navegación
-- RF20. Guardar toda la información en el **LocalStorage**.  
+-RF20. Guarde toda la información en el **LocalStorage**.  
 - RF21. Cargar automáticamente los datos guardados al iniciar el sitio.  
 - RF22. Incluir **navegación por secciones** (Inicio, Equipos, Partidos, Resultados, Galería).  
 - RF23. Agregar un **menú hamburguesa adaptable** para dispositivos móviles.  
@@ -60,7 +60,7 @@ El proyecto fue desarrollado aplicando la metodología ágil **Scrum**, prioriza
 
 ---
 
-## ⚙️ Requerimientos No Funcionales
+## ⚙️Requerimientos No Funcionales
 
 ### 1. Usabilidad
 - RNF1. Interfaz **intuitiva y atractiva**, orientada a estudiantes y docentes.  
@@ -69,7 +69,7 @@ El proyecto fue desarrollado aplicando la metodología ágil **Scrum**, prioriza
 
 ### 2. Rendimiento
 - RNF4. Funcionar como **aplicación de una sola página (SPA)** sin recargas.  
-- RNF5. Mantener **tiempos de carga rápidos** gracias a su estructura ligera.  
+- RNF5. Mantenga **tiempos de carga rápidos** gracias a su estructura ligera.  
 
 ### 3. Fiabilidad
 - RNF6. La información persiste entre sesiones mediante **LocalStorage**.  
@@ -81,7 +81,7 @@ El proyecto fue desarrollado aplicando la metodología ágil **Scrum**, prioriza
 
 ### 5. Mantenibilidad y Diseño
 - RNF10. Código **modular y bien estructurado** en JavaScript.  
-- RNF11. Uso de **animaciones suaves y colores vibrantes** sin afectar el rendimiento.  
+- RNF11. El uso de **animaciones suaves y colores vibrantes** sin afectar el rendimiento.  
 
 ---
 
@@ -101,5 +101,5 @@ El proyecto fue desarrollado aplicando la metodología ágil **Scrum**, prioriza
 p align="center">
   <img src="WhatsApp Image 2025-10-11 at 11.50.51.jpeg" alt="LIGA ESCOLAR DIGIT" width="400">
 </p>
-```markdown
+``rebaja
 ![Equipo Club Educativo Digital](img/equipo.jpg)
