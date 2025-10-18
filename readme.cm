@@ -47,9 +47,9 @@ El proyecto fue desarrollado aplicando la metodología ágil *Scrum*, priorizand
 
 ### 5. Galería Multimedia
 - *RF16:* Permitir *subir imágenes* desde el dispositivo del usuario.  
-- *RF17:* Validar que los archivos sean *imágenes válidas*.  
-- *RF18:* Mostrar una *galería visual* con descripciones y fechas.  
-- *RF19:* Permitir *eliminar fotos* cargadas.
+- *RF17:* Validar que los archivos sean *formatos de imagen válidos* (por ejemplo JPG, PNG).  
+- *RF18:* Mostrar una *galería visual* con descripciones y fechas de cada imagen.  
+- *RF19:* Permitir *eliminar imágenes* cargadas de manera individual.
 
 ### 6. Persistencia y Navegación
 - *RF20:* Guardar toda la información en el *LocalStorage*.  
@@ -89,18 +89,4 @@ El proyecto fue desarrollado aplicando la metodología ágil *Scrum*, priorizand
 - 🧱 *HTML5* — Estructura del sitio web.  
 - 🎨 *CSS3* — Estilos visuales y diseño adaptable.  
 - ⚙ *JavaScript* — Lógica, interactividad y almacenamiento local.  
-- ☁ *LocalStorage* — Persistencia de datos en el navegador.
-
----
-
-## 🖼 Foto del Equipo
-
-> 📸 Agrega aquí la foto de tu equipo.  
-> Para mostrarla en GitHub, guarda la imagen en tu repositorio (por ejemplo en la carpeta img/)  
-> y reemplaza el nombre del archivo si es necesario.
-
-<p align="center">
-  <img src="WhatsApp Image 2025-10-11 at 11.50.51.jpeg" alt="LIGA ESCOLAR DIGIT" width="400">
-</p>
-
-![Equipo Club Educativo Digital](img/equipo.jpg)
+- ☁ *LocalStorage* — Persistencia de datos en el navegador.
